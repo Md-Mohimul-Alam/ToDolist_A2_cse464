@@ -32,10 +32,10 @@ class HomePageState extends State<HomePage> {
                         'AssetImage("assets/images/my_image.jpg"),'),
                   ),
                   Text(
-                    "Shazneen Islam",
+                    "MD Mohimul Alam",
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
-                  Text('shazneenislam744@gmail.com'),
+                  Text('mohimreza1234@gmail.com'),
                   SizedBox(
                     height: 30,
                   ),
