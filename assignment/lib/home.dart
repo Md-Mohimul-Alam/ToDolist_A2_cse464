@@ -28,9 +28,8 @@ class HomePageState extends State<HomePage> {
                 children: [
                   CircleAvatar(
                     radius: 50,
-                    backgroundImage: NetworkImage(
-                        'AssetImage("assets/images/my_image.jpg"),'),
-                  ),
+                    backgroundImage: NetworkImage(backgroundImage: AssetImage("assets/images/my_image.jpg"),                  ),
+
                   Text(
                     "MD Mohimul Alam",
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
